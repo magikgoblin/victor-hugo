@@ -1,8 +1,6 @@
-baseurl = "/"
+baseurl = "http://hugo.spf13.com/"
 languageCode = "en-us"
-title = "Magik Goblin"
-themeDir = "themes"
-publishDir = "docs"
+title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -12,9 +10,9 @@ pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "This is simple blogger by Magik Goblin. Powered by Hugo"
+  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Magik Goblin"
+  navbarTitle          = "Future Imperfect"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -61,7 +59,7 @@ pluralizeListTitles = false
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Magic Goblin"
+  header    = "Hugo Future Imperfect"
 
   paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
 
@@ -125,17 +123,43 @@ pluralizeListTitles = false
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github          = "magikgoblin/quickstart"
+  github          = "jpescador/hugo-future-imperfect"
+  gitlab          = ""
+  stackoverflow   = "" # User Number
+  bitbucket       = ""
+  jsfiddle        = ""
+  codepen         = ""
+  # Visual Art Communities
+  deviantart      = ""
+  flickr          = "example"
+  behance         = ""
+  dribbble        = ""
+  # Publishing Communities
+  wordpress       = ""
+  medium          = ""
   # Professional/Business Oriented Communities
   linkedin        = "example"
+  foursquare      = ""
+  xing            = ""
+  slideshare      = ""
   # Social Networks
   facebook        = "example"
-  #googleplus      = ""
-  #youtube         = ""
-  #instagram       = "example"
-  #twitter         = "example"
-  #skype           = ""
-  #snapchat        = ""
-  #pinterest       = "example"
+  googleplus      = ""
+  reddit          = "example"
+  quora           = ""
+  youtube         = ""
+  vimeo           = ""
+  whatsapp        = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    wechat          = ""
+    qq              = "" # User ID Number
+  instagram       = "example"
+  tumblr          = ""
+  twitter         = "example"
+  skype           = ""
+  snapchat        = ""
+  pinterest       = "example"
+  telegram        = "example"
+  vine            = ""
   # Email
-  email           = "magik.goblin@gmail.com"
+  email           = "example"
